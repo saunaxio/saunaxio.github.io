@@ -3,9 +3,15 @@
 Tämä sivun tehtävä on koostaa yhteen muutamia oleellisia repositorioita, joiden avulla ohjaamme Saunaxio-platform ohjelmiston kehitystä. Tässä vaiheessa sivut ovat täysin keskeneräiset. 
 
 
+* [Lopputyöt - Thesis Works](https://github.com/saunaxio/thesis)
+* [Dokumentaatio - Documents](https://github.com/saunaxio/documentation)
+* [Source Code Platformh](ttps://github.com/saunaxio/platform)
 
 
 You can use the [editor on GitHub](https://github.com/saunaxio/saunaxio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
