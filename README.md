@@ -5,7 +5,7 @@ Tämä sivun tehtävä on koostaa yhteen muutamia oleellisia repositorioita, joi
 
 * [Lopputyöt - Thesis Works](https://github.com/saunaxio/thesis)
 * [Dokumentaatio - Documents](https://github.com/saunaxio/documentation)
-* [Saunaxio Platform Source Code](ttps://github.com/saunaxio/platform)
+* [Saunaxio Platform Source Code](https://github.com/saunaxio/Saunaxio/blob/master/README.md)
 
 
 You can use the [editor on GitHub](https://github.com/saunaxio/saunaxio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
